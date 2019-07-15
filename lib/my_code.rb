@@ -32,7 +32,7 @@ def reduce_to_total(array, starting_point = 0)
   counter
 end
 
-def reduce_to_true_all(array)
+def reduce_to_all_true(array)
   
 end
   
